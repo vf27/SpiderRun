@@ -9,3 +9,6 @@ El proyecto es un juego desarrollado en C++ utilizando la biblioteca **SFML (Sim
 ### Características del Juego
 - **Mecánicas de juego**: El jugador controla a Spider-Man, quien debe esquivar obstáculos en su camino saltando.
 - **Desarrollo**: Utiliza conceptos de programación orientada a objetos, como clases, herencia, y polimorfismo, para organizar el código y las funcionalidades del juego.
+![Menú](images/fondoMenu.png)
+![GameOver](images/fondoGameOver2.png)
+
