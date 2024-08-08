@@ -11,8 +11,8 @@ El proyecto es un juego desarrollado en C++ utilizando la biblioteca **SFML (Sim
 - **Desarrollo**: Utiliza conceptos de programación orientada a objetos, como clases, herencia, y polimorfismo, para organizar el código y las funcionalidades del juego.
 
   Menú Inicial: 
-![Menú](Imagenes/fondoMenu.png)
+![Menú](SpiderRun/Imagenes/fondoMenu.png)
 
   Pantalla Game Over: 
-![GameOver](Imagenes/fondoGameOver2.png)
+![GameOver](SpiderRun/Imagenes/fondoGameOver2.png)
 
