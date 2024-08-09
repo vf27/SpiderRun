@@ -17,6 +17,10 @@ El proyecto es un juego desarrollado en C++ utilizando la biblioteca **SFML (Sim
   
 ![menuInicio](https://github.com/user-attachments/assets/4ac7166e-5767-4afb-bc9c-3dda995eb3a1)
 
+  Enemigos: 
+
+![Enemigos](https://github.com/user-attachments/assets/a84d3efa-4541-4667-9002-d162daec8558)
+
 
   Ejemplo Vista Nivel 1:
 
